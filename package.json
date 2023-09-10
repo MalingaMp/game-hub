@@ -1,5 +1,4 @@
 {
-	"homepage": "https://MalingaMp.github.io/game-hub",
 	"name": "game-hub",
 	"private": true,
 	"version": "0.0.0",
@@ -40,6 +39,7 @@
 		"@types/react-dom": "^18.0.10",
 		"@types/youtube-player": "^5.5.7",
 		"@vitejs/plugin-react": "^3.1.0",
+		"gh": "^2.8.9",
 		"gh-pages": "^5.0.0",
 		"typescript": "^4.9.3",
 		"vite": "^4.1.0"
