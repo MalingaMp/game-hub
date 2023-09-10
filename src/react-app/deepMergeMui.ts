@@ -111,7 +111,7 @@ const muiTheme = extendMuiTheme({
 					main: colors.red[500],
 				},
 				info: {
-					main: colors.purple[500],
+					main: colors.green[500],
 				},
 				success: {
 					main: colors.green[500],
@@ -140,7 +140,7 @@ const muiTheme = extendMuiTheme({
 					main: colors.red[600],
 				},
 				info: {
-					main: colors.purple[600],
+					main: colors.green[600],
 				},
 				success: {
 					main: colors.green[600],
