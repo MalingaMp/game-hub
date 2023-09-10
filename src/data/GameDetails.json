@@ -1,0 +1,42 @@
+[
+	{ "id": 3498, "slug": "grand-theft-auto-v", "name": "Grand Theft Auto V" },
+	{
+		"id": 3328,
+		"slug": "the-witcher-3-wild-hunt",
+		"name": "The Witcher 3: Wild Hunt"
+	},
+	{ "id": 4200, "slug": "portal-2", "name": "Portal 2" },
+	{ "id": 5286, "slug": "tomb-raider", "name": "Tomb Raider (2013)" },
+	{
+		"id": 4291,
+		"slug": "counter-strike-global-offensive",
+		"name": "Counter-Strike: Global Offensive"
+	},
+	{ "id": 13536, "slug": "portal", "name": "Portal" },
+	{ "id": 12020, "slug": "left-4-dead-2", "name": "Left 4 Dead 2" },
+	{
+		"id": 5679,
+		"slug": "the-elder-scrolls-v-skyrim",
+		"name": "The Elder Scrolls V: Skyrim"
+	},
+	{ "id": 4062, "slug": "bioshock-infinite", "name": "BioShock Infinite" },
+	{
+		"id": 28,
+		"slug": "red-dead-redemption-2",
+		"name": "Red Dead Redemption 2"
+	},
+	{
+		"id": 3439,
+		"slug": "life-is-strange-episode-1-2",
+		"name": "Life is Strange"
+	},
+	{ "id": 802, "slug": "borderlands-2", "name": "Borderlands 2" },
+	{ "id": 13537, "slug": "half-life-2", "name": "Half-Life 2" },
+	{ "id": 4286, "slug": "bioshock", "name": "BioShock" },
+	{ "id": 1030, "slug": "limbo", "name": "Limbo" },
+	{ "id": 58175, "slug": "god-of-war-2", "name": "God of War (2018)" },
+	{ "id": 32, "slug": "destiny-2", "name": "Destiny 2" },
+	{ "id": 3070, "slug": "fallout-4", "name": "Fallout 4" },
+	{ "id": 2454, "slug": "doom", "name": "DOOM (2016)" },
+	{ "id": 11859, "slug": "team-fortress-2", "name": "Team Fortress 2" }
+]
